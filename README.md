@@ -60,4 +60,4 @@ Forecasting scientific research progress is critical for identifying trends and 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/divakar-yadav/Research_Paper_Title_Generator.git
-   cd scientific-title-generator
+   cd Research_Paper_Title_Generator
